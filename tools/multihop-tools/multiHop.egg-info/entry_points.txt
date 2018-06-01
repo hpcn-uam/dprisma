@@ -1,0 +1,4 @@
+[console_scripts]
+distributionEstimator = multiHopTools.distributionEstimator:main
+multiflowCorrelator = multiHopTools.multiFlowCorrelator:main
+
